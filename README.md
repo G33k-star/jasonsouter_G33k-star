@@ -1,23 +1,24 @@
 # Jason Souter
-
 Electrical Engineering Student  
 Aspiring Electromagnetic Systems Research Scientist
 
-## About Me
-I am an Electrical Engineering student focused on developing the physics and systems foundations needed to work on advanced electromagnetic systems. My interests include RF propagation, wave–matter interaction, embedded systems, and intelligent control integration.
+Electrical Engineering student developing toward the role of Electromagnetic Systems Research Engineer, with a long-term progression into Research Scientist. My work centers on electromagnetics, wave–matter interaction, and adaptive RF systems, alongside control theory and intelligent system integration. I approach engineering as applied field physics by modeling propagation, material response, and energy coupling, then validating those models through simulation, embedded implementation, and experimental testing. My interests include RF and wireless systems, electromagnetic compatibility, propagation environments, advanced materials interaction, and adaptive system control. Long-term, I aim to develop high-reliability electromagnetic systems that integrate physics-based modeling with intelligent control, bridging theory, simulation, and real-world system validation in advanced research and defense environments.
 
 ## Research Interest
-Electromagnetic systems research integrating RF propagation, wave–matter interaction, and intelligent control for adaptive sensing.
+- Electromagnetic systems
+- RF Signal Behavior
+- Wave–Matter Interaction
+- Intelligent Control Systems
+- Adaptive Sensing Platforms
+- Integrated EM–control Architectures
 
 ## Technical Areas
 - Electromagnetics and RF systems
+- Adaptive Electromagnetic Structures
+- Resilient Spectrum Systems
 - Embedded systems
 - Signal-based sensing systems
-- Data logging and analysis
 - Intelligent systems integration
-
-
-
 
 ## TECHNICAL SKILLS 
 ### Electromagnetics & RF Systems: 
@@ -31,7 +32,6 @@ MATLAB (numerical modeling, signal analysis), Python (data pipelines, machine le
 
 ### Systems & Hardware Integration: 
 Hardware/software co-design, communication protocols, System-level troubleshooting and validation, Circuit analysis (KCL, KVL, transient response)
-
 
 ## Development Tools
 - Git / GitHub
