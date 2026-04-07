@@ -2,7 +2,7 @@
 Electrical Engineering Student  
 Aspiring Electromagnetic Systems Research Scientist
 
-Electrical Engineering student developing toward the role of Electromagnetic Systems Research Engineer, with a long-term progression into Research Scientist. My work centers on electromagnetics, wave–matter interaction, and adaptive RF systems, alongside control theory and intelligent system integration. I approach engineering as applied field physics by modeling propagation, material response, and energy coupling, then validating those models through simulation, embedded implementation, and experimental testing. My interests include RF and wireless systems, electromagnetic compatibility, propagation environments, advanced materials interaction, and adaptive system control. Long-term, I aim to develop high-reliability electromagnetic systems that integrate physics-based modeling with intelligent control, bridging theory, simulation, and real-world system validation in advanced research and defense environments.
+Electrical Engineering student focused on building a foundation in electromagnetics, RF systems, and intelligent control integration. I am developing toward a career as an Electromagnetic Systems Research Scientist, exploring the intersection of wave–matter interaction, computational modeling, and adaptive system design. My interests include learning advanced EM simulation, signal processing, and embedded control systems for resilient, physics-grounded technologies. Currently exploring topics in electromagnetic systems, including propagation, interference, and adaptive RF technologies.
 
 ## Research Interest
 - Electromagnetic systems
