@@ -1,5 +1,5 @@
 # Jason Souter
-\n Electrical Engineering Student  
+Electrical Engineering Student  
 Aspiring R&D Scientist
 
 Electrical Engineering student building a foundation in multiphysics systems involving electromagnetics, acoustics, intelligent sensing, wave–matter interaction, RF systems, and adaptive control integration. Interested in computational modeling, signal behavior, embedded systems, and adaptive electromagnetic and acoustic technologies, with long-term goals in advanced R&D as a Research Scientist.
