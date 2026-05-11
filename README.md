@@ -2,23 +2,30 @@
 Electrical Engineering Student  
 Aspiring Electromagnetic Systems Research Scientist
 
-Electrical Engineering student focused on building a foundation in electromagnetics, RF systems, and intelligent control integration. I am developing toward a career as an Electromagnetic Systems Research Scientist, exploring the intersection of wave–matter interaction, computational modeling, and adaptive system design. My interests include learning advanced EM simulation, signal processing, and embedded control systems for resilient, physics-grounded technologies. Currently exploring topics in electromagnetic systems, including propagation, interference, and adaptive RF technologies.
+Electrical Engineering student building a foundation in multiphysics systems involving electromagnetics, acoustics, intelligent sensing, wave–matter interaction, RF systems, and adaptive control integration. Interested in computational modeling, signal behavior, embedded systems, and adaptive electromagnetic and acoustic technologies, with long-term goals in advanced R&D as a Research Scientist.
 
 ## Research Interest
-- Electromagnetic systems
-- RF Signal Behavior
-- Wave–Matter Interaction
-- Intelligent Control Systems
-- Adaptive Sensing Platforms
-- Integrated EM–control Architectures
 
-## Technical Areas
-- Electromagnetics and RF systems
-- Adaptive Electromagnetic Structures
-- Resilient Spectrum Systems
-- Embedded systems
-- Signal-based sensing systems
-- Intelligent systems integration
+### Electromagnetics
+- Antennas & propagation
+- RF behavior
+- Electromagnetic compatibility (EMC)
+- Wave propagation environments
+- Adaptive RF technologies
+
+### Acoustics & Signal Behavior
+- Acoustic wave interaction
+- Noise and interference analysis
+- Signal attenuation
+- Resonance and propagation behavior
+- Adaptive sensing concepts
+
+### Intelligent Systems
+- Intelligent sensing systems
+- Adaptive system response
+- Embedded control integration
+- Sensor fusion concepts
+- Computational system analysis
 
 ## TECHNICAL SKILLS 
 ### Electromagnetics & RF Systems: 
@@ -39,6 +46,8 @@ Hardware/software co-design, communication protocols, System-level troubleshooti
 - Anaconda
 - Mendeley Reference Manager
 - Obsidian
+- Linux (Pop!_OS)
+- Windows
 
 ## Featured Projects
 - Smart ID Verification System
